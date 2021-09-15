@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 |  00  |libft							          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/Libft) |
 |  01  |get_next_line			          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/get_next_line) |
 |  02  |printf        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/ft_printf) |
-
+|  03  |netwhat        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/netwhat) |
 
 ---

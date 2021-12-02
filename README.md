@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 |  01  |get_next_line			          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/get_next_line) |
 |  02  |netwhat        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/netwhat) |
 |  03  |printf        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/ft_printf) |
+|  04  |fractol        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/fract-ol) |
 ---

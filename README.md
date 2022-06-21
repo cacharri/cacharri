@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![IMG_20210724_141443](https://user-images.githubusercontent.com/82544904/174868345-589fde9f-aa85-4a28-93a4-52009c438244.jpeg)
+
+
 <!--
 **cacharri/cacharri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

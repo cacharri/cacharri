@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ialvarez's 42 stats](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/stats?cursusId=21&coalitionId=64)
+
+[![ialvarez's 42 stats](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
 |  00  |libft							          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/Libft) |

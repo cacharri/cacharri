@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 ![ialvarez's 42 stats](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/stats?cursusId=21&coalitionId=64)
 
-[![ialvarez's 42 stats](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
-
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
-|  00  |libft							          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/Libft) |
-|  01  |get_next_line			          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/get_next_line) |
-|  02  |netwhat        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/netwhat) |
-|  03  |printf        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/ft_printf) |
-|  04  |fractol        		          | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/fract-ol) |
-|  05  |push_swap        		        | ![ialvarez's libft Score](https://badge42.herokuapp.com/api/project/ialvarez/push_swap) |
+|  00  |libft							          | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2148525) |
+|  01  |get_next_line			          | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2161963) |
+|  02  |netwhat        		          | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2161963) |
+|  03  |printf        		          | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2170098) |
+|  04  |fractol        		          | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2367236) |
+[![ialvarez's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2341023)](https://github.com/JaeSeoKim/badge42)
+|  05  |push_swap        		        | ![ialvarez's libft Score](https://badge42.vercel.app/api/v2/cl4ofhjq3001609mgjqdpu9db/project/2367235) |
 ---

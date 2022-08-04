@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ialvarez's 42 stats]([![ialvarez's 42 stats](https://badge.mediaplus.ma/binary/ialvarez)](https://github.com/oakoudad/badge42))
+![ialvarez's 42 stats]([![<ialvarez>'s 42 stats](https://badge.mediaplus.ma/binary/<ialvarez>)](https://github.com/oakoudad/badge42))
 
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|

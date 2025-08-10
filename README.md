@@ -36,41 +36,9 @@ Soy un profesional en constante desarrollo, motivado por la búsqueda de nuevos 
 
 ---
 
-## 🌱 Actualmente
-
-- Enfocado en el proyecto Inception, desarrollando configuraciones avanzadas con Docker.
-- Explorando el proyecto Transcendence para integrar aplicaciones web modernas con tecnologías innovadoras.
-
----
-
 ## 📫 Contacto
 
 - **Email:** [echarri.ia@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/i%C3%B1igo-alvarez-echarri-/]
 
 ---
-
-## 🏅 Mis Stats en 42 Madrid
-
-| Proyecto      | Resultado |
-| ------------- | --------- |
-| Libft         | ✅         |
-| Get Next Line | ✅         |
-| NetWhat       | ✅         |
-| printf        | ✅         |
-| Fractol       | ✅         |
-| Born2BeRoot   | ✅         |
-| Push Swap     | ✅         |
-| Philosophers  | ✅         |
-| WebServer     | ✅         |
-| CPP Module 00 | ✅         |
-| CPP Module 01 | ✅         |
-| CPP Module 02 | ✅         |
-| CPP Module 03 | ✅         |
-| CPP Module 04 | ✅         |
-| CPP Module 05 | ✅         |
-| CPP Module 06 | ✅         |
-| CPP Module 07 | ✅         |
-| CPP Module 08 | ✅         |
-| CPP Module 09 | ✅         |
-
